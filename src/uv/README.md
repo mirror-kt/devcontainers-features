@@ -7,7 +7,7 @@ An extremely fast Python package and project manager, written in Rust.
 
 ```json
 "features": {
-    "ghcr.io/mirror-kt/devcontainer-features/uv:1": {}
+    "ghcr.io/mirror-kt/devcontainers-features/uv:1": {}
 }
 ```
 
@@ -18,11 +18,8 @@ An extremely fast Python package and project manager, written in Rust.
 | version | Select the version to install. | string | latest |
 | shellautocompletion | Enable or disable uv and uvx autocompletion. | boolean | false |
 
-## uv Repository
-
-* [astral-sh/uv](https://github.com/astral-sh/uv)
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/va-h/devcontainers-features/blob/main/src/uv/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/mirror-kt/devcontainers-features/blob/main/src/uv/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
